@@ -1,0 +1,9 @@
+body {
+  background-color: hsl(0, 0%, 7%);
+  color: #fafafa;
+  font-family: 'Vazirmatn';
+}
+
+.card-bg {
+  background-color: #1a1c1e;
+}
